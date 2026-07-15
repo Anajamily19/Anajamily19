@@ -9,7 +9,7 @@
 
   # Sobre mim **👨🏻‍💻**
   
-  Olá! Me chamo Ana Jamily e estou cursando Ciência da Computação na Uninassau, atualmente tenho 19 anos, logo mais lançarei todos os meus projetos e códigos desenvolvidos ao longo dessa trajetória como desenvolvedora. Desde já, agradeço!
+  Olá! Me chamo Ana Jamily e estou cursando Ciência da Computação na Uninassau, atualmente tenho 19 anos e logo mais estarei lançando todos os meus projetos e códigos desenvolvidos ao longo dessa trajetória como desenvolvedora. Desde já, agradeço!
 
 
 # Linguagens & Tecnologias & Ferramentas:
